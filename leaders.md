@@ -1,2 +1,2 @@
 ### Leaders
-* [Tafadzwe Demba](mailto:tafadzwe.demba@owasp.org)
+* [Tafadzwa Demba](mailto:tafadzwa.demba@owasp.org)
