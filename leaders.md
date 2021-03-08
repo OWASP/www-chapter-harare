@@ -1,4 +1,4 @@
 ### Leaders
 
-* [John Chakauya](mailto://john.chakauya@owasp.org)
-* [Donald Munengiwa](mailto://donald.munengiwa@owasp.org)
+* [John Chakauya](mailto:john.chakauya@owasp.org)
+* [Donald Munengiwa](mailto:donald.munengiwa@owasp.org)
