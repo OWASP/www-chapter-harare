@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Harare
-tags: example-tag
 region: Africa
+meetup-group:  owasp-harare
 
 ---
 ## Welcome
