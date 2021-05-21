@@ -15,8 +15,8 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 ## Participation
 
-OWASP Foundation is a professional association of [ global members](https://owasp.org/membership/) and is open to anyone and everyone interested in learning more about application security. Local chapters are run independently and guided by the[Chapter\_Leader\_Handbook](https://owasp.org/www-policy/operational/chapter-handbook-existing). As a [501(c)(3)](https://owasp.org/about/) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation button. To be a <b>SPEAKER</b> at
-any of the Chapter's evnts, simply review the [ speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader(s) with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
+OWASP Foundation is a professional association of [global members](https://owasp.org/membership/) and is open to anyone and everyone interested in learning more about application security. Local chapters are run independently and guided by the[NEW Chapter Policyt](https://owasp.org/www-policy/). As a [501(c)(3)](https://owasp.org/about/) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation button. To be a <b>SPEAKER</b> at
+any of the Chapter's evnts, simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader(s) with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
 <br/>
 
