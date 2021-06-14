@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Harare
 region: Africa
-meetup-group:  owasp-harare
+meetup-group: owasp-harare
 
 ---
 ## Welcome
