@@ -94,7 +94,8 @@ Call For Speakers is open - if you would like to present a 15-45 minute
 talk on Application / Cyber Security at future OWASP Harare Chapter
 events - please review and agree with the [ OWASP Speaker
 Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and submit your
-talk/presentation via 
+talk/presentation via [Google
+Forms](https://forms.gle/A3GG9X9qEFrPDL85A)
 <br/>
 Please note that you can also pair up with a colleague and present a
 joint talk. Please ensure that your talk is objective, stresses open
